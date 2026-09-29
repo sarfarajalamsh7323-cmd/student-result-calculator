@@ -1,2 +1,16 @@
 # student-result-calculator
-A beginner-friendly Python program to calculate student total marks and percentage.
+# Student Result Calculator
+
+This is my first Python project.
+
+It calculates:
+- Total marks
+- Percentage
+
+## Technology
+Python
+
+## Author
+Sarfaraj
+git add .
+
